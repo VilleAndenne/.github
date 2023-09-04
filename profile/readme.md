@@ -1,1 +1,0 @@
-# Service Transition numérique de la Ville d'Andenne
