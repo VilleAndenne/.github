@@ -1,6 +1,6 @@
 # Service Développement numérique - Ville d'Andenne
 
-Bienvenue sur le compte GitHub du Service Développement numérique de la Ville d'Andenne. Notre mission est de développer et de maintenir des solutions numériques innovantes pour améliorer la qualité de vie de nos citoyens et l'efficacité de nos services municipaux.
+Bienvenue sur le compte GitHub du Service Développement numérique de la Ville d'Andenne. Notre mission est de développer et de maintenir des solutions numériques innovantes pour améliorer la qualité de vie de nos citoyens et l'efficacité de nos services communaux.
 
 ## Projets
 
