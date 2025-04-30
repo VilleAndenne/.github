@@ -7,7 +7,7 @@ Bienvenue sur le compte GitHub du Service Développement numérique de la Ville 
 Vous trouverez ici nos projets open-source, ainsi que des outils et des ressources pour les développeurs et les citoyens intéressés par nos initiatives numériques
 ### Projets principaux
 
-- **[SnapFrais](https://github.com/VilleAndenne/SnapFrais)** : Description courte du projet 1.
+- **[SnapFrais](https://github.com/VilleAndenne/SnapFrais)** : Application web Laravel/Vue.js pour la gestion automatisée et dématérialisée des notes de frais dans les administrations publiques.
 
 ## Contribution
 
