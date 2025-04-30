@@ -7,9 +7,7 @@ Bienvenue sur le compte GitHub du Service Développement numérique de la Ville 
 Vous trouverez ici nos projets open-source, ainsi que des outils et des ressources pour les développeurs et les citoyens intéressés par nos initiatives numériques
 ### Projets principaux
 
-- **[Nom du projet 1](lien-du-projet-1)** : Description courte du projet 1.
-- **[Nom du projet 2](lien-du-projet-2)** : Description courte du projet 2.
-- **[Nom du projet 3](lien-du-projet-3)** : Description courte du projet 3.
+- **[SnapFrais](https://github.com/VilleAndenne/SnapFrais)** : Description courte du projet 1.
 
 ## Contribution
 
